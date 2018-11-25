@@ -7,4 +7,12 @@ One of the problems with using sine as an activation function is that it falls i
 
 Also, not sure how the loss landscape can be defined as the integral of the loss function. (look at Goodfellow paper)
 
+If data has large amount of low frequencies, this can be avoided as seen in Figure 3 where the global optimum is near w=0. Basically, take away is that w's cannot be large.
+
+Is there any difference between truncated sine and tanh?
+
+Empricial evaluations show that sin periodicty is getting ignored. => should test out in terms of big activations what happens.
+
+what happens in swapping activations after training with relu?
+
 https://openreview.net/pdf?id=Sks3zF9eg
