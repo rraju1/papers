@@ -4,7 +4,7 @@ This paper examines the relationship between curvature of the loss function and 
 
 I do like how Figure 1 was laid out. It really made the point obvious that adversarial fine-tuning pushed examples away from the decision boundary.
 
-In the related works section, they mentioned that the linearity, on the contrary, was not a problem. This is troubling because in the Goodfellow FGSM paper and [On the Geometry of Adversarial Examples](https://github.com/rraju1/papers/blob/master/deep_learning/On_Geometry_adverserial_examples.md), they both point out the issue of using a low-dimensional decision boundary to seperate high-dim data.
+In the related works section, they mentioned that the linearity, on the contrary, was not a problem. This is troubling because in the Goodfellow FGSM paper and [On the Geometry of Adversarial Examples](https://arxiv.org/pdf/1811.00525.pdf), they both point out the issue of using a low-dimensional decision boundary to seperate high-dim data.
 
 Not sure why to take the Hessian of loss wrt input pixels. What does this signify? 
 
