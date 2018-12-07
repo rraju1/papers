@@ -8,6 +8,6 @@
 
 - [Robustness via curvature regularization, and vice versa](https://github.com/rraju1/papers/blob/master/deep_learning/robustness_via_curvature_regularization.md)
 
-## Misc. intereting papers
+## Misc. interesting papers
 
 - [Taming the waves: sine as activation function in deep neural networks](https://github.com/rraju1/papers/blob/master/deep_learning/taming_waves.md)
