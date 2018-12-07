@@ -14,6 +14,6 @@ Figure 3 is pretty cool which shows that I am far from the decision boundary wit
 I can't comment on the mathematics because I don't really understand if the quadratic approximation is even valid so I have to assume it's right. Analysis of proof is also just unclear
 Results are compared to PGD but accuracy is actually bad like 45% with 20 iterations. Maybe this is impressive? I should look at this attack
 
-Overall, I'm feeling like I don't really know about this one, cheif. 
+Overall, I'm feeling like I don't really know about this one, chief. 
 
 https://arxiv.org/pdf/1811.09716.pdf
