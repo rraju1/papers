@@ -8,4 +8,6 @@ There are 2 claims made in the abstract:
   
 
 
+Slides on Bo Li's website: [Slides](http://nebula.wsimg.com/3b1c9dcbb65e2367da1d1ad685a8360b?AccessKeyId=619655DB521D0ED197FE&disposition=0&alloworigin=1)
+
 https://arxiv.org/pdf/1312.6199.pdf
