@@ -13,3 +13,5 @@
 ## Misc. interesting papers
 
 - [Taming the waves: sine as activation function in deep neural networks](https://github.com/rraju1/papers/blob/master/deep_learning/taming_waves.md)
+
+-[Deep Residual Learning for Image Recognition](https://github.com/rraju1/papers/blob/master/deep_learning/resnet.pdf)
