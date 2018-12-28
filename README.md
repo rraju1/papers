@@ -25,4 +25,6 @@ Models](https://github.com/rraju1/papers/blob/master/deep_learning/robust_phys.p
 
 - [Taming the waves: sine as activation function in deep neural networks](https://github.com/rraju1/papers/blob/master/deep_learning/taming_waves.md)
 
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/rraju1/papers/blob/master/deep_learning/bn.pdf)
+
 - [Deep Residual Learning for Image Recognition](https://github.com/rraju1/papers/blob/master/deep_learning/resnet.pdf)
