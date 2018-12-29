@@ -9,7 +9,10 @@
 
 - [Towards Evaluating the Robustness of Neural Networks](https://github.com/rraju1/papers/blob/master/deep_learning/cw.pdf)
 
+- [Fooling Deep Structured Prediction Models](https://github.com/rraju1/papers/blob/master/deep_learning/houdini.pdf)
+
 - [Spatially Transformed Adversarial Examples](https://github.com/rraju1/papers/blob/master/deep_learning/spatial.pdf)
+
 - [Robust Physical-World Attacks on Deep Learning
 Models](https://github.com/rraju1/papers/blob/master/deep_learning/robust_phys.pdf)
 
