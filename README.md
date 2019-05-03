@@ -7,6 +7,9 @@
 
 - [Explaining and Harnessing Adversarial Examples](https://github.com/rraju1/papers/blob/master/deep_learning/linear.pdf)
 
+- [The Limitations of Deep Learning
+in Adversarial Settings](https://github.com/rraju1/papers/blob/master/deep_learning/JSMA_attack.pdf)
+
 - [Towards Evaluating the Robustness of Neural Networks](https://github.com/rraju1/papers/blob/master/deep_learning/cw.pdf)
 
 - [Fooling Deep Structured Prediction Models](https://github.com/rraju1/papers/blob/master/deep_learning/houdini.pdf)
